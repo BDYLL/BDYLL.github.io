@@ -1,20 +1,19 @@
-*{
-	font-family: 'Lato', sans-serif;
-}
+
 .transbox {
-    margin: 30px;
+    margin: 15px;
+    font-weight: bold;
     background-color: #ffffff;
-    border: 1px solid black;
+    border: 2px solid black;
     opacity: 0.6;
     filter: alpha(opacity=60);
 }
 .transbox p {
-    margin: 2%;
+    margin: 3%;
     font-weight: bold;
     color: #000000;
 }
 .transbox h {
-    margin: 2%;
+    margin: 3%;
     font-weight: bold;
     color: #000000;
 }
@@ -39,14 +38,25 @@ body,html
   height: 100%;
   background-color:black;
 }
-#title{
-    padding-top:100px;
-    text-align:center;
-    color:white;
-}
+
 #video1{
     padding-top: 80px;
 }
 #intro p{
     font-size:150%;
 }
+#title{
+    /*padding-right: 120px;*/
+    color: white; text-shadow: black 1.3em 0.10em 1.0em;
+    text-shadow: -1px 0 black, 0 1px black,
+      1px 0 black, 0 -1px black;
+      padding-top:100px;
+    color:white;
+    font-family: 'Lobster', cursive;
+    
+    
+}
+h3 ,h4 {
+    text-align:center;
+}
+
