@@ -1,0 +1,6 @@
+Cambios hechos:
+Se agrego sombra al titulo para hacerlo resaltar mas del fondo
+Las cajas de texto tienen son mas grandes
+El logotipo fue cambiado
+El font del titulo se cambio
+Boton de back up to top
