@@ -17,6 +17,7 @@
     font-weight: bold;
     color: #000000;
 }
+@media screen{
 #background{
     position:fixed;
     top:0px;
@@ -24,6 +25,7 @@
     bottom:0px;
     right:0px;
     background-repeat:no-repeat;
+}
 }
 #background img{
     width:100%;
