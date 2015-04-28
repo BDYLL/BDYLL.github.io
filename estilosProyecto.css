@@ -41,9 +41,10 @@ body,html
   height: 100%;
   background-color:black;
 }
-
+@media screen{
 #video1{
     padding-top: 80px;
+}
 }
 #intro p{
     font-size:150%;
